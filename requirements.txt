@@ -1,0 +1,14 @@
+Package              Version  
+-------------------- ---------
+Django               2.1.1    
+django-debug-toolbar 1.10.1   
+django-filter        2.0.0    
+django-redis         4.9.0    
+djangorestframework  3.8.2    
+Markdown             2.6.11   
+pip                  18.0     
+pytz                 2018.5   
+redis                2.10.6   
+setuptools           39.0.1   
+sqlparse             0.2.4    
+youtube-dl           2018.9.18
